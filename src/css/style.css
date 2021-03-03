@@ -16,7 +16,7 @@ body {
   font-weight: 400;
   height: 100vh;
   color: #333;
-  background-image:url(/src/img/diceWallpaper.jpg);
+  background-image: url(/src/img/diceWallpaper.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
@@ -189,14 +189,4 @@ main {
 .player--winner .name {
   font-weight: 700;
   color: #fff;
-}
-.btn--0{
-  position: absolute;
-  top: 52rem;
-  left: 25rem;
-}
-.btn--1{
-  position: absolute;
-  top: 52rem;
-  left:75rem;
 }
